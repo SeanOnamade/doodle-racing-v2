@@ -1,0 +1,8 @@
+!dist/
+.env
+.idea
+.vscode
+src/__pycahce__/
+/node_modules
+node_modules/
+**/node_modules
